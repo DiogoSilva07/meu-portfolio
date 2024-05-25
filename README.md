@@ -1,4 +1,4 @@
-## **MEU PORTIFÓLIO**
+## **MEU PORTFOLIO**
 
 Portifólio que visa implementar e organizar meus projetos.
 
